@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+Build/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# for others   #
+# ============ #
+
+.vscode/*
+Assets/JP_School classroom_V2/*
+/Assets/InkPainter/*
+!/Assets/InkPainter/Script/
+/Assets/InkPainter/Script/*
+!/Assets/InkPainter/Script/Core
+/Assets/InkPainter/Script/Core/*
+!/Assets/InkPainter/Script/Core/InkCanvas.*
+Assets/Vroom/*
+Assets/Plugins/NativeGallery/*
+Assets/TextMesh Pro/*
+
+
+*.log #log files, for some plugins
+*.pyc #python bytecode cache, for some plugins.
+sysinfo.txt #Unity3D Generated File On Crash Reports
